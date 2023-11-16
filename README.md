@@ -1,9 +1,19 @@
 # Installation
 
 This project requires Python 3.11 (like MFB-Realive)
-https://www.python.org/downloads/release/python-3110/
+[Download Python 3.11](https://www.python.org/downloads/release/python-3110/)
 
 1. Download the repo.
 2. Set Hearthstone to windowed 1024x768 and open it up to the Battlegrounds "Play" screen.
 3. Run launch.bat (be patient as it has to initialize and install dependencies).
 4. Control the bot through the simple UI.
+
+# Warning
+
+Blizzard is known to ban people for botting Battlegrounds. Use this sparingly and don't go on marathons.
+
+# Feeling Generous?
+
+[Send me a tip!](https://www.buymeacoffee.com/blixxky)
+
+Reach me on [Discord](https://discordapp.com/users/1110685258178908201)
