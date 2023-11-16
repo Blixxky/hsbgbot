@@ -6,7 +6,8 @@ This project requires Python 3.11 (like MFB-Realive)
 1. Download the repo.
 2. Set Hearthstone to windowed 1024x768 and open it up to the Battlegrounds "Play" screen.
 3. Run launch.bat (be patient as it has to initialize and install dependencies).
-4. Control the bot through the simple UI.
+
+To stop the bot, simply close the terminal window, or put it in focus and CTRL+C to terminate.
 
 # Warning
 
